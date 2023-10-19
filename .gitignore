@@ -19,7 +19,7 @@
 bin/
 dump/
 env
-go/
+/go/
 isucon12-final/
 local/
 
